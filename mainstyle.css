@@ -1,0 +1,40 @@
+.index{
+    color: mediumpurple;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.response{
+    color:#228B22;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#field{
+   background-color: rgb(138, 130, 155);
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+}
+.lk{
+    text-decoration: none;
+    color: #228B22;
+    font-family: Helvetica, sans-serif;
+}
+.hmbt{
+    font-family: Helvetica, sans-serif;
+    text-decoration: none;
+    color: #228B22;
+}
+
+.bt ul li:hover{
+    background-color: #228B22;
+    color: white;
+    border-radius: 15px;
+    display: inline-block;
+    
+}
+
+.k{
+    color: #228B22;
+    text-decoration: none;
+    padding: 5px;
+}
+.k:hover{
+    color: white;
+}

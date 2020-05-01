@@ -1,0 +1,264 @@
+*{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.social{
+    display: inline-block;
+    position: absolute;
+    left: 20px;
+    top: 25px;
+    float: left;
+}
+.sociallinks{
+margin: 10px;
+
+}
+
+.divsl{
+    background-color: #3366CC;
+    padding-left: 150px;
+    
+}
+
+.toptag{
+    display: inline-block;
+    color: white;
+    margin-left: 100px;
+    padding: 2px;
+}
+
+.tg1{
+    display: inline-block;
+}
+
+.bt1{
+    margin-left: 50px;
+    display: inline-block;
+}
+.topbt{
+    font-size: 14px;
+    padding: 5px;
+    margin: 5px;
+    float: right;;
+    display: inline-block;
+    text-decoration: none;
+    background-color: white;
+    color: green;
+    border-width: 20px;
+    border: green;
+    border-radius: 3px;
+    position: relative;
+    top: 10px;
+}
+
+.divmn{
+    position: absolute ;
+    top: 90px;
+    background-color: white;
+}
+
+.menu{
+    float: right;
+    text-align: center;
+    display: inline-block;
+    /* margin-left: 300px; */
+   
+    
+}
+
+
+
+
+.menu ul{
+    display: inline-flex;
+    color: whitesmoke;
+    list-style: none;
+}
+
+.menu ul li{
+    margin: 20px;
+    padding: 5px;
+    
+
+}
+
+.menu ul li a{
+    color: black;
+    text-decoration: none;
+    padding: 5px;
+}
+
+
+
+.menu ul li a:hover{
+    color: white;
+
+}
+
+.selected, .menu ul li:hover{
+    background-color:#3366CC;
+    border-radius: 15px;
+    color: white;
+}
+
+.divmn{
+    display: inline-block;
+    margin: auto;
+}
+.sub-menu1{
+    display: none;
+}
+.menu ul li:hover .sub-menu1{
+    display: block;
+    position: absolute;
+    left: 400px;
+    margin-top: 10px;
+    margin-right: -15px;
+    
+}
+
+.menu ul li:hover .sub-menu1 ul{
+    display: block;
+    margin: 10px;
+    background-color: whitesmoke;
+    color: white;
+   
+
+}
+.menu ul li:hover .sub-menu1 ul li{
+    text-align: left;
+}
+
+.sub-menu2{
+    display: none;
+}
+.menu ul li:hover .sub-menu2{
+    display: block;
+    position: absolute;
+    left: 550px;
+    margin-top: 10px;
+    margin-right: -15px;
+}
+
+.menu ul li:hover .sub-menu2 ul{
+    display: block;
+    margin: 10px;
+    background-color: whitesmoke;
+    color: white;
+    
+}
+.menu ul li:hover .sub-menu2 ul li{
+    text-align: left;
+
+}
+
+.sub-menu3{
+    display: none;
+}
+.menu ul li:hover .sub-menu3{
+    display: block;
+    position: absolute;
+    left: 680px;
+    margin-top: 10px;
+    margin-right: -15px;
+}
+
+.menu ul li:hover .sub-menu3 ul{
+    display: block;
+    margin: 10px;
+    background-color: whitesmoke;
+    color: white;
+    
+}
+.menu ul li:hover .sub-menu3 ul li{
+    text-align: left;
+
+}
+
+.sub-menu4{
+    display: none;
+}
+.menu ul li:hover .sub-menu4{
+    display: block;
+    color: white;
+    position: absolute;
+    left: 1030px;
+    margin-top: 10px;
+    margin-right: -15px;
+}
+
+.menu ul li:hover .sub-menu4 ul{
+    display: block;
+    margin: 10px;
+    background-color: whitesmoke;
+    color: white;
+    
+}
+.menu ul li:hover .sub-menu4 ul li{
+    text-align: left;
+
+}
+.mid{
+    text-align: center;
+    background-color: #3366CC;
+    
+}
+.int{
+    display: inline-block;
+    margin-left: 500px;
+    color: #3366CC;
+   
+}
+.int2{
+    display: inline-block;
+    color: green;
+}
+.imglogo{
+    text-align: center;
+}
+.imglogo p{
+    color: green;
+}
+.para{
+    color: gray;
+    text-align: justify;
+    padding: 100px;
+    margin: 10px;
+    word-spacing: 2px;
+    
+}
+.num{
+    background-color: #3366CC;
+    display: inline-block;
+    
+}
+.num1{
+    display: inline-block;
+ color: white;
+ text-align: center;
+ padding: 30px;
+}
+.num2{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.num3{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+
+.num4{
+    display: inline-block;
+    color: white;
+    text-align: center;
+    padding: 30px;
+}
+.img2{
+    max-width:"1250px";
+    min-width: 200px;
+    text-align: center;
+}
