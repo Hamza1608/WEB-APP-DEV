@@ -34,21 +34,21 @@ margin: 10px;
     margin-left: 50px;
     display: inline-block;
 }
-.topbt{
-    font-size: 14px;
-    padding: 5px;
-    margin: 5px;
-    float: right;;
-    display: inline-block;
-    text-decoration: none;
-    background-color: white;
-    color: green;
-    border-width: 20px;
-    border: green;
-    border-radius: 3px;
-    position: relative;
-    top: 10px;
-}
+    .topbt{
+        font-size: 14px;
+        padding: 5px;
+        margin: 5px;
+        float: right;;
+        display: inline-block;
+        text-decoration: none;
+        background-color: white;
+        color: green;
+        border-width: 20px;
+        border: green;
+        border-radius: 3px;
+        position: relative;
+        top: 10px;
+    }
 
 .divmn{
     position: absolute ;
@@ -232,27 +232,27 @@ margin: 10px;
     
 }
 .num1{
-    display: inline-block;
+    display: inline-block !important;
  color: white;
  text-align: center;
  padding: 30px;
 }
 .num2{
-    display: inline-block;
+    display: inline-block !important;
     color: white;
     text-align: center;
     padding: 30px;
 }
 
 .num3{
-    display: inline-block;
+    display: inline-block !important;
     color: white;
     text-align: center;
     padding: 30px;
 }
 
 .num4{
-    display: inline-block;
+    display: inline-block !important;
     color: white;
     text-align: center;
     padding: 30px;
